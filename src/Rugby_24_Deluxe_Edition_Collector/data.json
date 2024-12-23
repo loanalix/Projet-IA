@@ -1,0 +1,44 @@
+{
+    "players": {
+        "1": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "2": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "3": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "4": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "5": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "6": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "7": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "8": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "9": {
+            "speed": 60,
+            "maxSpeed": 120
+        },
+        "10": {
+            "speed": 60,
+            "maxSpeed": 120
+        }
+    }
+}
